@@ -11,7 +11,7 @@ export default function Home() {
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
 			<div className="inline-block max-w-2xl text-center justify-center">
 				<h1 className={title()}>Lets make your</h1><br/>
-				<h1 className={title({ color: "violet" })}> &apos;beautiful</h1>
+				<h1 className={title({ color: "violet" })}> &apos;beautiful&apos;</h1>
 				<br />
 				<h1 className={title()}>
 					websites regardless of your design and development experience.
