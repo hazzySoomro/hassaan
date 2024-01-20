@@ -10,14 +10,14 @@ export default function Home() {
 	return (
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
 			<div className="inline-block max-w-lg text-center justify-center">
-				<h1 className={title()}>Make&nbsp;</h1>
-				<h1 className={title({ color: "violet" })}>beautiful&nbsp;</h1>
+				<h1 className={title()}>Lets Make&nbsp;</h1><br/>
+				<h1 className={title({ color: "violet" })}> your beautiful&nbsp;</h1>
 				<br />
 				<h1 className={title()}>
-					websites regardless of your design experience.
+					websites regardless of your design and development knowledge.
 				</h1>
 				<h2 className={subtitle({ class: "mt-4" })}>
-					Beautiful, fast and modern React UI library.
+				Hello, I'm Hassaan. I'm a Front-end developer with 6 years of experience. I enjoy building sites & apps. My focus is React/Next.js.
 				</h2>
 			</div>
 
@@ -25,9 +25,9 @@ export default function Home() {
 				<Link
 					isExternal
 					href={siteConfig.links.docs}
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
+					className={buttonStyles({ color: "success", radius: "full", variant: "shadow" })}
 				>
-					Documentation
+					Hire Me on UpWork
 				</Link>
 				<Link
 					isExternal
