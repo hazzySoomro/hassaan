@@ -63,7 +63,7 @@ export const siteConfig = {
 		github: "https://github.com/nextui-org/nextui",
 		twitter: "https://twitter.com/getnextui",
 		docs: "https://www.upwork.com/freelancers/~010d98a86986135d14",
-		discord: "https://discord.gg/9b6yyZKmH4",
+		discord: "https://discord.com/users/hazzyalee",
     sponsor: "https://patreon.com/webdeveloper201"
 	},
 };
