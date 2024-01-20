@@ -17,7 +17,7 @@ export default function Home() {
 					websites regardless of your design and development experience.
 				</h1>
 				<h2 className={subtitle({ class: "mt-4" })}>
-				Hello, I am Hassaan. I am a Front-end developer with 6 years of experience. I enjoy building sites. My focus is React and Next.js.
+				Hello, I&apos;m Hassaan. I&apos;m a Front-end developer with 6 years of experience. I enjoy building sites. My focus is React and Next.js.
 				</h2>
 			</div>
 
@@ -42,7 +42,9 @@ export default function Home() {
 			<div className="mt-8">
 				<Snippet hideSymbol hideCopyButton variant="flat">
 					<span>
-						Get started by editing <Code color="primary">app/page.tsx</Code>
+						<a href="https://wa.me/03312444229" target="_blank">
+						Let&apos;s talk <Code color="success">whatsapp</Code>
+						</a>
 					</span>
 				</Snippet>
 			</div>
