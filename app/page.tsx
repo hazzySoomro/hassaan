@@ -5,6 +5,9 @@ import { button as buttonStyles } from "@nextui-org/theme";
 import { siteConfig } from "@/config/site";
 import { title, subtitle } from "@/components/primitives";
 import { GithubIcon } from "@/components/icons";
+import {Avatar} from "@nextui-org/avatar";
+import hazzy from "@/public/hazzy.jpeg"
+
 
 export default function Home() {
 	return (
@@ -16,9 +19,9 @@ export default function Home() {
 				<h1 className={title()}>
 					websites regardless of your design and development experience.
 				</h1>
-				<h2 className={subtitle({ class: "mt-4" })}>
-				Hello, I&apos;m Hassaan. I&apos;m a Front-end developer with 6 years of experience. I enjoy building sites. My focus is React and Next.js.
-				</h2>
+				<div className="flex flex-col items-center justify-center gap-4 py-8 md:py-10" ><Avatar className="w-20 h-20 text-large" isBordered color="secondary" src={hazzy.src} /></div>
+				<h2 className={subtitle({ class: "mt-4 text-sm" })}> Hello, I&apos;m Hassaan. Unlock the digital potential of your business with my expert web development services! As a seasoned WordPress, Shopify, and Wix developer. </h2>
+				
 			</div>
 
 			<div className="flex gap-3">
@@ -42,7 +45,7 @@ export default function Home() {
 			<div className="mt-8">
 				<Snippet hideSymbol hideCopyButton variant="flat">
 					<span>
-						<a href="https://wa.me/03312444229" target="_blank">
+						<a href="https://wa.me/+923312444229" target="_blank">
 						Let&apos;s talk <Code color="success">whatsapp</Code>
 						</a>
 					</span>
