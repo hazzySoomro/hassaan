@@ -8,17 +8,17 @@ export const siteConfig = {
 			label: "Home",
 			href: "/",
 		},
+    // {
+    //   label: "Docs",
+    //   href: "/docs",
+    // },
+    // {
+    //   label: "Pricing",
+    //   href: "/pricing",
+    // },
     {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
+      label: "Skills",
+      href: "/skills",
     },
     {
       label: "About",

@@ -44,16 +44,16 @@ export default function RootLayout({
 						<main className="container mx-auto max-w-7xl pt-16 px-6 flex-grow">
 							{children}
 						</main>
-						<footer className="w-full flex items-center justify-center py-3">
+						<footer className="w-full flex items-center justify-center py-3 ">
 							<Link
 								isExternal
 								className="flex items-center gap-1 text-current"
 								href="/"
 								title="nextui.org homepage"
 							>
-								<span className="text-default-600">Powered by</span>
-								<p className="text-primary">Hassaan Ali </p>
-								<p>© 2024 | All Rights Reserved.</p>
+								<span className="text-default-600 sm-text-[12px]">Powered by</span>
+								<p className="text-primary sm-text-[12px]">Hassaan Ali </p>
+								<p className="sm-text-[12px]">© 2024 | All Rights Reserved.</p>
 							</Link>
 						</footer>
 					</div>

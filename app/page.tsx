@@ -8,7 +8,6 @@ import { GithubIcon } from "@/components/icons";
 import {Avatar} from "@nextui-org/avatar";
 import hazzy from "@/public/hazzy.jpeg"
 
-
 export default function Home() {
 	return (
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
@@ -23,7 +22,6 @@ export default function Home() {
 				<h2 className={subtitle({ class: "mt-4 text-sm" })}> Hello, I&apos;m Hassaan. Unlock the digital potential of your business with my expert web development services! As a seasoned WordPress, Shopify, and Wix developer. </h2>
 				
 			</div>
-
 			<div className="flex gap-3">
 				<Link
 					isExternal
