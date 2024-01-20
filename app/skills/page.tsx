@@ -5,7 +5,7 @@ import React from "react";
 import {Progress} from "@nextui-org/progress";
 import {Button} from "@nextui-org/button";
 
-export default function BlogPage() {
+export default function Skills() {
 
 	return (
 		<div className="flex flex-col ">
