@@ -11,15 +11,31 @@ export default function AboutPage() {
 			<Divider className="my-4 mb-10"/>
 			</div>
 			<div className="text-left mb-8">
-				<h1 className={subtitle()}>Junior Front-end Developer <br/> @Golootlo.
+				<h1 className={subtitle()}>Web Developer <br/> @Upwork
+				</h1>
+				<span className="">2023 - Currently</span>
+				<p className="mt-4 text-gray-400">Successfully satisfies the clients on Upwork. Work across a wide range
+				of web projects with clients all over the globe.</p>
+			</div>
+			<Divider className="my-4 mb-10"/>
+
+
+			<div className="text-left mb-8">
+				<h1 className={subtitle()}>Junior Front-end Developer  <br/> @Golootlo.
 				</h1>
 				<span className="">Sep. 2023 - Currently</span>
 				<p className="mt-4 text-gray-400">Working closely with business stakeholders, project head, team
 				lead, designers, and QA to on <span className="font-bold">conceptualize</span> and produce amazing
 				output.
 				</p>
+				<p className="mt-4 text-gray-400">Working on WebView  (SDK) for new client Ufone Pakistan (Cellular). Mainly,
+				focused on the front end and also, worked closely with the backend developers. I strive to learn back-end technology.
+				</p>
 			</div>
 			<Divider className="my-4 mb-10"/>
+
+
+
 			<div className="text-left mb-10">
 				<h1 className={subtitle()}>Front-end Developer <br/> @Voxtron (Pvt) Ltd</h1>
 				<span className="">Feb. 2023 - Sep 2023</span>
@@ -37,12 +53,12 @@ export default function AboutPage() {
 				satisfaction.<br/><br/>
 				Implemented Continuous Integration/Continuous Deployment (CI/CD)
 				pipelines in Github, automating the build and deployment processes for
-				efficient and reliable code releases<br/><br/>
-
-
-				</p>
+				efficient and reliable code releases<br/><br/></p>
 			</div>
 			<Divider className="my-4 mb-10"/>
+
+
+
 			<div className="text-left mb-10">
 				<h1 className={subtitle()}>Front-end Developer <br/> @Sigma IT - Saudi Arabia</h1>
 				<span className="">Feb 2022 - Oct 2022</span>
@@ -62,6 +78,8 @@ export default function AboutPage() {
 				</p>
 			</div>
 			<Divider className="my-4 mb-10"/>
+
+
 			<div className="text-left mb-10">
 				<h1 className={subtitle()}>Web Developer <br/>@Turnsole IT Service
 				</h1>
@@ -75,6 +93,9 @@ export default function AboutPage() {
 				</p>
 			</div>
 			<Divider className="my-4 mb-10"/>
+
+
+
 			<div className="text-left mb-10">
 				<h1 className={subtitle()}>ITech-Squad <br/>@Innovative Network Pvt Ltd</h1>
 				<span className="">Jan 2017 - Dec 2017

@@ -19,7 +19,7 @@ export default function Home() {
 					websites regardless of your design and development experience.
 				</h1>
 				<div className="flex flex-col items-center justify-center gap-4 py-8 md:py-10" ><Avatar className="w-20 h-20 text-large" isBordered color="secondary" src={hazzy.src} /></div>
-				<h2 className={subtitle({ class: "mt-4 text-sm" })}> Hello, I&apos;m Hassaan. Unlock the digital potential of your business with my expert web development services! As a seasoned WordPress, Shopify, and Wix developer. </h2>
+				<h2 className={subtitle({ class: "mt-4 text-sm" })}> Hello, I&apos;m Hassaan. With 6+ years of experience unlock the digital potential of your business with my expert web development services! As a seasoned WordPress, Shopify, and Wix developer. </h2>
 				
 			</div>
 			<div className="flex gap-3">
