@@ -56,7 +56,7 @@ export const siteConfig = {
 		// },
 		{
 			label: "WhatsApp",
-			href: "/logout",
+			href: "https://wa.me/+923312444229",
 		},
 	],
 	links: {
