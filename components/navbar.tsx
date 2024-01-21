@@ -1,3 +1,5 @@
+'use client'
+
 import {
 	Navbar as NextUINavbar,
 	NavbarContent,
@@ -29,7 +31,10 @@ import {
 
 import { Logo } from "@/components/icons";
 
+
 export const Navbar = () => {
+
+
 	const searchInput = (
 		<Input
 			aria-label="Search"
@@ -130,9 +135,10 @@ export const Navbar = () => {
 										? "danger"
 										: "foreground"
 								}
-								href="#"
+								href={item.href}
 								size="lg"
 							>
+								
 								{item.label}
 							</Link>
 						</NavbarMenuItem>

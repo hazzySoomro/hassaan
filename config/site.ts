@@ -27,12 +27,12 @@ export const siteConfig = {
 	],
 	navMenuItems: [
 		{
-			label: "Profile",
-			href: "/profile",
+			label: "Skills",
+			href: "/skills",
 		},
 		{
-			label: "Dashboard",
-			href: "/dashboard",
+			label: "About",
+			href: "/about",
 		},
 		{
 			label: "Projects",
@@ -55,8 +55,8 @@ export const siteConfig = {
 			href: "/help-feedback",
 		},
 		{
-			label: "Logout",
-			href: "/logout",
+			label: "WhatsApp",
+			href: "https://wa.me/+923312444229",
 		},
 	],
 	links: {
