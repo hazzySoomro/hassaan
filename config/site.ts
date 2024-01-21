@@ -34,10 +34,10 @@ export const siteConfig = {
 			label: "About",
 			href: "/about",
 		},
-		// {
-		// 	label: "Projects",
-		// 	href: "/projects",
-		// },
+		{
+			label: "Projects",
+			href: "/projects",
+		},
 		// {
 		// 	label: "Team",
 		// 	href: "/team",
