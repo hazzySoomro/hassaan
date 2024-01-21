@@ -38,22 +38,22 @@ export const siteConfig = {
 			label: "Projects",
 			href: "/projects",
 		},
-		{
-			label: "Team",
-			href: "/team",
-		},
-		{
-			label: "Calendar",
-			href: "/calendar",
-		},
-		{
-			label: "Settings",
-			href: "/settings",
-		},
-		{
-			label: "Help & Feedback",
-			href: "/help-feedback",
-		},
+		// {
+		// 	label: "Team",
+		// 	href: "/team",
+		// },
+		// {
+		// 	label: "Calendar",
+		// 	href: "/calendar",
+		// },
+		// {
+		// 	label: "Settings",
+		// 	href: "/settings",
+		// },
+		// {
+		// 	label: "Help & Feedback",
+		// 	href: "/help-feedback",
+		// },
 		{
 			label: "WhatsApp",
 			href: "https://wa.me/+923312444229",
