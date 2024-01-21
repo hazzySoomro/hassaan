@@ -12,10 +12,10 @@ export const siteConfig = {
     //   label: "Docs",
     //   href: "/docs",
     // },
-    // {
-    //   label: "Pricing",
-    //   href: "/pricing",
-    // },
+    {
+      label: "Projects",
+      href: "/projects",
+    },
     {
       label: "Skills",
       href: "/skills",
@@ -34,10 +34,10 @@ export const siteConfig = {
 			label: "About",
 			href: "/about",
 		},
-		{
-			label: "Projects",
-			href: "/projects",
-		},
+		// {
+		// 	label: "Projects",
+		// 	href: "/projects",
+		// },
 		// {
 		// 	label: "Team",
 		// 	href: "/team",
@@ -56,7 +56,7 @@ export const siteConfig = {
 		// },
 		{
 			label: "WhatsApp",
-			href: "https://wa.me/+923312444229",
+			href: "/logout",
 		},
 	],
 	links: {
