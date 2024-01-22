@@ -43,7 +43,7 @@ export default function Home() {
 			<div className="mt-8">
 				<Snippet hideSymbol hideCopyButton variant="flat">
 					<span>
-						<a href="mailto:has.webdev@gmail.com" subject="Inquire" >
+						<a href="mailto:has.webdev@gmail.com subject=Inquire" >
 						Let&apos;s talk <Code color="danger">Email me</Code>
 						</a>
 					</span>
