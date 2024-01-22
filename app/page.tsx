@@ -43,8 +43,8 @@ export default function Home() {
 			<div className="mt-8">
 				<Snippet hideSymbol hideCopyButton variant="flat">
 					<span>
-						<a href="https://wa.me/+923312444229" target="_blank">
-						Let&apos;s talk <Code color="success">whatsapp</Code>
+						<a href="mailto:has.webdev@gmail.com" >
+						Let&apos;s talk <Code color="danger">whatsapp</Code>
 						</a>
 					</span>
 				</Snippet>
